@@ -1,4 +1,4 @@
-num =n = 1
+num =n = int(input())
 count =0
 while True:
     a= int(num//10)
